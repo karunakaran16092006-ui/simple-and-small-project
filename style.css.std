@@ -1,0 +1,28 @@
+body{
+  padding: 25px;
+  background-image:url(https://uploads.onecompiler.io/44fpvnyem/44fpvp56g/wp5907639.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+}
+.title {
+	color: red;
+}
+.name{
+  display: block;
+  border: 2px solid red ;
+  margin-left:auto;
+  margin-right:auto;
+
+}table{
+  border: 2px solid black;
+  font-family: arial;
+  background-color: white;
+  
+}img{
+  border-radius: 50%;
+}h1{
+  color: red;
+}p{
+  color: white;
+}

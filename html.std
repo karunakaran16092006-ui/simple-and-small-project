@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <center><body>
+    <h1>MY PROFILE</h1>
+    <img src="https://uploads.onecompiler.io/44fpvnyem/44fpvp56g/karan.jpg.jpeg" height=150px width=150px><br>
+   <br> <table border=1px >
+      <tr>
+        <th>name</th>
+        <th>department</th>
+        <th>roll no</th>
+      </tr>
+      <tr>
+        <td>karan</td>
+        <td>computer science</td>
+        <td>22</td>
+        
+      </tr>
+      <tr>
+        <td>priya</td>
+        <td>computer science</td>
+        <td>24</td>
+      </tr>
+    </table>
+    <p>more informatin to<a href="https://www.bing.com/search?qs=FT&pq=studen&sk=CSYN1UAS8AS3LS6MT1LC3&sc=25-6&pglt=2339&q=student+portal&cvid=0c1c99f929274846abd0f405082560d6">learn</a></p>
+  </body>
